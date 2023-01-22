@@ -1,7 +1,7 @@
 <h1 align="center"> Coffee </h1>
 
 <p align="center">
-Esse desafio foi feito através o programa DISCOVER da Rockeatseat. <br/>
+Esse desafio foi feito através o programa DISCOVER da Rocketseat. <br/>
 </p>
 
 <p align="center">
