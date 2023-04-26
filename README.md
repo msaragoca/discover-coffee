@@ -32,8 +32,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto PROFILE foi feito com objetivo de criar uma landing page com os dados do perfil de uma pessoa.
 
-- [Visite o projeto online](https://msaragoca.github.io/discover-coffee)
-
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/BQneq3GF9mUz9hYujSjcId/RocketCoffee-(Community)?node-id=0%3A1&t=4HvsIUUVgViRxwTx-1>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
